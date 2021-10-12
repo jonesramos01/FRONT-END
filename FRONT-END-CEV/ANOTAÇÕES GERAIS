@@ -1,0 +1,47 @@
+······································································································
+::::FRONT-END-CEV::::
+······································································································
+1.HISTÓRIA DA INTERNET:
+
+ENIAC (1945)
+IBM 1401 (1959)
+DARPA (1969) - JÁ COM COMUNICAÇÃO À DISTÂNCIA
+
+FTP
+DNS
+TCP
+IP
+HTTP
+HTML
+WWW
+MOSAIS
+NETSCAPE
+MOZILLA
+GOOGLE CHROME
+
+2.HISTÓRIA DA LINGUAGEM HTML:
+
+TIM BERNERS-LEE: CRIOU O HTTP E A LINGUAGEM HTML 1990
+
+3.INFRAESTRUTURA DE INTERNET:
+
+PC A 
+PC B
+
+TELEFONE (BASE)
+MODEM (MODULAÇÃO - DEMODULAÇÃO)
+PROVEDOR DE ACESSO (INTERNET)
+
+→
+PC A (IP A) > MODEM A > PROVEDOR DE ACESSO > MODEM B > PC B (IP B)
+
+←
+PC A (IP A) < MODEM B < PROVEDOR DE ACESSO < MODEM B < PC B (IP B)
+
+OBS: ATIVOS DO CURSO:
+
+WebStorm [RECOMENDADO]  WebStorm [RECOMENDADO] 
+SublimeText  SublimeText
+Notepad++  Notepad++
+Brackets  Brackets
+Brackets  Brackets (link temporário)
